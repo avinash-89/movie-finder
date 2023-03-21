@@ -1,8 +1,10 @@
+import AllRoutes from "./routes/routes";
+
 function App() {
   return (
-   <>
-   <p>Movies finder</p>
-   </>
+    <>
+      <AllRoutes />
+    </>
   );
 }
 
